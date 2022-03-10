@@ -1,7 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails 7 Hotwire : a tutorial
+https://www.bootrails.com/blog/rails-7-hotwire-a-tutorial/
+
+チュートリアルを試してみる。
 
 Things you may want to cover:
 
